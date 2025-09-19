@@ -61,5 +61,3 @@ Welcome to the Purple Movement.
 Welcome to **Beyond**.
 
 ---
-
-Would you like me to also **format this into a Markdown file (`COMMIT_BOOK.md`)** so you can directly put it in your repo alongside `thoughts.txt`?
